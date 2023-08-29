@@ -12,7 +12,6 @@
 
 This e-commerce web Application is built using Laravel, PHP, CSS, JavaScript, and Blade templates. This application enables customers to purchase products, incorporates verification and validation processes, and uses the SSLCommerz payment gateway for secure transactions.
 
-![ECommerce Web Application](screenshot.png)
 
 ## Features
 
